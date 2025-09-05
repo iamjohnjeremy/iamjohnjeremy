@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm John Jeremy</h1>
+<h3 align="center">A passionate Backend developer from Philippines</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjohnjeremy&label=Profile%20views&color=0e75b6&style=flat" alt="iamjohnjeremy" /> </p>
+
 # 💫 About Me:
 🌱 Currently learning and building skills in Full-Stack Development (Java, Spring Boot, and related technologies)<br>👯 Open to collaborating on Java and Full-Stack projects<br>🤝 Seeking guidance and opportunities in Backend & Full-Stack Development<br>💬 Passionate about creating efficient and scalable web applications<br>🎓 Graduate of Bachelor of Science in Information Technology at Perpetual Help College of Pangasinan
 
